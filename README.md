@@ -6,10 +6,9 @@ It's a little buggy still, so beyond that scopoe, I wouldn't really trust the re
 At the moment there is no compiled release, but if you'd like to try the development snapshot, we're fine with that.
 
 ## Setting up and running dev snapshot
+```
 git clone https://github.com/fisknils/Visual-Regression-Testing-UI.git
-
 cd Visual-Regression-Testing-UI
-
 npm i
-
 npm dev
+```
