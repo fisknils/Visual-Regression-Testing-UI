@@ -7,6 +7,9 @@ At the moment there is no compiled release, but if you'd like to try the develop
 
 ## Setting up and running dev snapshot
 git clone https://github.com/fisknils/Visual-Regression-Testing-UI.git
+
 cd Visual-Regression-Testing-UI
+
 npm i
+
 npm dev
