@@ -1,7 +1,7 @@
 {
-  "name": "electron-boilerplate-typescript-react-sass",
+  "name": "Visual-Regression-Testing-UI",
   "version": "1.0.0",
-  "description": "An Electron boilerplate using TypeScript, React and Sass",
+  "description": "An Electron Visual Regression Testing Tool",
   "scripts": {
     "dev": "rimraf dist && electron-webpack dev",
     "prod": "rimraf dist && electron-webpack prod",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chuzzy/electron-react-typescript.git"
+    "url": "git+https://github.com/fisknils/Visual-Regression-Testing-UI.git"
   },
   "keywords": [
     "electron",
@@ -20,13 +20,12 @@
     "webpack",
     "sass"
   ],
-  "author": "Chuzzy",
+  "author": "Anders Magnusson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Chuzzy/electron-react-typescript/issues"
+    "url": "https://github.com/fisknils/Visual-Regression-Testing-UI/issues"
   },
   "main": "dist/main/index.js",
-  "homepage": "https://github.com/Chuzzy/electron-react-typescript#readme",
   "devDependencies": {
     "@babel/core": "^7.11.1",
     "@babel/preset-env": "^7.11.0",
